@@ -65,6 +65,7 @@ h4 {
 }
 
 p {
+  text-align: justify;
   margin: 15px 0;
 }
 
@@ -253,7 +254,6 @@ nav {
 
 .post {
   blockquote {
-    text-align: justify;
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
