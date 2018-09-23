@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello.
+
+Welcome to the About Page. I’m Ira.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I’m fascinated by coding, design, user experience, test driven development, and continually improving my developer skills.
 
-### Contact me
+### Get In Touch
 
-[email@domain.com](mailto:email@domain.com)
+Concerns, critique, ideas, objections, wishes or anything else you wanna tell me – don't hesitate to e-mail me [irene.butakova@gmail.com](mailto:irene.butakova@gmail.com), I’ll try to get back asap. Questions, comments are also welcome.
